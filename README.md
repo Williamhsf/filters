@@ -1,0 +1,1 @@
+O objetivo deste projeto é desenvolver um filtro para selecionar conteúdos com base nos títulos dos cards.
